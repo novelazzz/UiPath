@@ -1,0 +1,76 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "b_EkranAcildi&Sequence_1",
+        "str_Ruzgar&Sequence_1",
+        "str_Nem&Sequence_1",
+        "str_Yagis&Sequence_1",
+        "str_Gun&Sequence_1",
+        "str_Konum&Sequence_1",
+        "str_HavaSicakligi&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_HavaSicakligi&Sequence_1",
+        "str_Konum&Sequence_1",
+        "str_Gun&Sequence_1",
+        "str_Yagis&Sequence_1",
+        "str_Nem&Sequence_1",
+        "str_Ruzgar&Sequence_1",
+        "b_EkranAcildi&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Havadurumu.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_HavaSicakligi&Sequence_1",
+        "str_Konum&Sequence_1",
+        "str_Gun&Sequence_1",
+        "str_Yagis&Sequence_1",
+        "str_Nem&Sequence_1",
+        "str_Ruzgar&Sequence_1",
+        "b_EkranAcildi&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "galatarasaray mac.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "galatasaray mac.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
