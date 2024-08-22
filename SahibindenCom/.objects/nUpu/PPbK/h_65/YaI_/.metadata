@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Select Item 'Turizm Amaçlı'",
+  "Type": "Element",
+  "Id": "YaI_ZbLx_kyMnPfqudzvqw",
+  "Reference": "JbEbVuOU5UeuX-hvBscznA/YaI_ZbLx_kyMnPfqudzvqw",
+  "ParentRef": "JbEbVuOU5UeuX-hvBscznA/h_65cH6QxEibMopyUWZAdw",
+  "Created": "2024-08-22T16:04:05.1624164Z",
+  "Updated": "2024-08-22T16:04:05.1624164Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

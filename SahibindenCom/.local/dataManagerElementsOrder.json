@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_extractListEnum&Sequence_6",
+        "index&Sequence_1",
+        "dt_extractList&Sequence_1",
+        "b_captcha&Sequence_6",
+        "str_minFyt&Sequence_6",
+        "str_maxFyt&Sequence_6",
+        "str_ilce&Sequence_6",
+        "str_il&Sequence_6",
+        "dt_shbList&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

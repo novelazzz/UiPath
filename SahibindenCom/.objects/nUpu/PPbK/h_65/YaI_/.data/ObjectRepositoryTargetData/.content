@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FyvwOsQ8Fk2hxRWtcaJ78Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.sahibinden.com/kategori/emlak-konut" DesignTimeRectangle="626, 411, 181, 39" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='searchForm' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='searchForm' tag='DIV' class='sahibindenSelect closed categoryArea' aaname='' /&gt;" Guid="6515acc3-873a-4c4e-bdb8-fd09d2cec9c5" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Konut Fiyatları ve Emlak İlanları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="626, 523, 181, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl class='viewAllLightbox' parentid='searchForm' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl class='viewAllLightbox' parentid='searchForm' tag='A' type='' aaname='Daha fazla seçenek göster' check:innerText='Daha fazla seçenek göster' /&gt;" Guid="8b8426cf-29ac-4497-886c-bf7784b22817" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d8c929745984260e39641a8de9dab252.png" xmlns="">0nN0sPeN9rE6jFpy0s5HU-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
