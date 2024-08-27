@@ -1,0 +1,67 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_mailEk&Sequence_1",
+        "faturaYol&Sequence_1",
+        "List_mailMessages&Sequence_1",
+        "index&Sequence_1",
+        "attachments&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetOutlookMailMessages.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "List_mailMessages"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SearchAndSaveAttachments.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "List_mailMessages",
+        "index",
+        "attachments"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PdfReadAndWriteExcel.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_i&Sequence_2",
+        "str_outPdf&Sequence_2",
+        "str_belgeNo&Sequence_2",
+        "str_sipTarih&Sequence_2",
+        "str_KDV&Sequence_2",
+        "str_toplamTutar&Sequence_2",
+        "str_VKN&Sequence_2",
+        "str_excelName&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "faturaYol"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
